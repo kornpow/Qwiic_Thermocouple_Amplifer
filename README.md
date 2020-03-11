@@ -13,8 +13,8 @@ SparkFun MCP9600 Thermocouple Amplifier
         <td><a href="https://www.sparkfun.com/products/16295"><img src="https://cdn.sparkfun.com/assets/parts/1/4/9/8/5/16295-Qwiic_Thermocouple_Amplifier_-_MCP9600_-_Screw_Terminals-01.jpg" alt=""></a></td>
     </tr>
     <tr align="center">
-        <td>[<a href="">SparkFun MCP9600 Thermocouple Amplifier - PCC Connector (SEN-16294)</a>]</td>
-        <td>[<a href="">SparkFun MCP9600 Thermocouple Amplifier - Screw Terminals (SEN-16295)</a>]</td>
+        <td>[<a href="https://www.sparkfun.com/products/16294"></a>]SparkFun MCP9600 Thermocouple Amplifier - PCC Connector (SEN-16294)</td>
+        <td>[<a href="https://www.sparkfun.com/products/16295"></a>]SparkFun MCP9600 Thermocouple Amplifier - Screw Terminals (SEN-16295)</td>
     </tr>
 </table>
 
