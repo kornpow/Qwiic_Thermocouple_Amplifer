@@ -29,7 +29,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Thermocouple Amplifier Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-thermocoupler-hookup-guide)** - Hookup guide for the SparkFun Thermocouple Amplifiers.
+* **[Thermocouple Amplifier Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-thermocouple-hookup-guide)** - Hookup guide for the SparkFun Thermocouple Amplifiers.
 * **[SparkFun MCP9600 Arduino Library](https://github.com/sparkfun/SparkFun_MCP9600_Arduino_Library)** - Arduino library for the MCP9600.
 
 License Information
